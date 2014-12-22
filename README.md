@@ -36,17 +36,33 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-1. Authoris ad librum suum carmen Ouidianum, cum diutina febri rure laboraret.
+1. To the Gentlemen Readers, HEALTH.
+Authoris ad librum suum carmen Ouidianum, cum diutina febri rure laboraret.Parue (ne•… inuideo) sine
+    _ Authoris ad librum suum carmen Ouidianum, cum diutina febri rure laboraret.
 
-1. In praise of the Author.
+    _ In praise of the Author.
+
+1. TO THE RIGHT Worshipfull, Sir Charles Blount, Knight, indewed with perfections of learning, and titles of nobility: Robert Greene wisheth increase of honour and vertue.
+
+1. TO THE AVTHOVR HIS FRIEND.
+
+1. In ROBERTI GRENI Metamorphosin, carmen ENKOMIASTIKON.
+
+1. In laudem Roberti Greni Cantab. in Artibus Magistri.
 
 #####Body#####
 
-1. ALCIDA, her first Historie.
+1. ALCIDA GREENES Metamorphosis.
 
-1. The second Historie of ERIPHILA of Taproban•….
+    _ ALCIDA, her first Historie.
 
-1. The third Historie of MARPESIA of Taprobane.
+1. The second Discourse.
+
+    _ The second Historie of ERIPHILA of Taproban•….
+
+1. The third Discourse, of MARPESIA.
+
+    _ The third Historie of MARPESIA of Taprobane.
 
 **Types of content**
 
